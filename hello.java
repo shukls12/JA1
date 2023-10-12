@@ -1,4 +1,3 @@
-
 // Main class
 public class GFG {
 
@@ -19,6 +18,7 @@ public class GFG {
 
 	     // Printing elements of HashSet object
 	     System.out.println(hash_Set);
+	     System.out.println("New line in developer branch")
 
 	} 
-
+}
